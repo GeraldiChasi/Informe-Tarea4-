@@ -26,6 +26,50 @@ CAPITULO 9
 
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS Capítulo 7:
 
+1. Para las redes de la figura 7-46, determine cuáles resistores y ramas están en serie y cuáles en paralelo. Escriba una expresión para la resistencia total, RT.
+
+![image](https://user-images.githubusercontent.com/84587091/125366545-e3d69a80-e33b-11eb-8c1d-0ca86b376ea4.png)
+
+a) Resistencia en serie R1,R5  R2,R3 Resistencia en paralelo R4.
+
+Rt=R1+R5+[(R2+R3)]||R4]
+
+b) Resistencia en paralelo R1, R2  R3, R4.
+
+Rt=(R1||R2)+(R3||R4)
+
+3. Escriba una expresión para RT1 y RT2 para las redes de la figura 7-48.
+
+![image](https://user-images.githubusercontent.com/84587091/125366621-14b6cf80-e33c-11eb-8192-75f46dbe59f3.png)
+
+a) Resistencia en serie R3,R4  R1+[(R3+R4)||R2].
+
+Resistencia en paralelo (R3+R4)||R2
+
+Rt=R1+[(R3+R4)||R2]+R5Rt2
+
+b) Resitencia en serie R1+(R2|(|R3|)|R5)
+
+Resistencia en paralelo R3,R5  R2,R3,R5
+
+Rt=R1+(R2|(|R3|)|R5)Rt2
+
+5. Las redes de resistores tienen las resistencias totales que se muestran a continuación. Dibuje un circuito que corresponda a cada expresión. 
+
+a. RT =(R1||R2||R3)+(R4||R5)
+
+![image](https://user-images.githubusercontent.com/84587091/125366747-5b0c2e80-e33c-11eb-887c-ff5ee9f307a6.png)
+
+b. RT=R1+(R2||R3)+[R4||(R5+R6)]
+
+![image](https://user-images.githubusercontent.com/84587091/125366783-6c553b00-e33c-11eb-91ec-bfdba6b6c01b.png)
+
+7. Determine la resistencia total para cada red de la figura 7-50.
+
+![image](https://user-images.githubusercontent.com/84587091/125366796-77a86680-e33c-11eb-9d29-066cd1821c3d.png)
+
+![image](https://user-images.githubusercontent.com/84587091/125367039-01583400-e33d-11eb-8e8f-e597a0cebaf1.png)
+
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS Capítulo 8:
 
 VIDEO 
