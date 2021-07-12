@@ -70,6 +70,8 @@ b. RT=R1+(R2||R3)+[R4||(R5+R6)]
 
 ![image](https://user-images.githubusercontent.com/84587091/125367039-01583400-e33d-11eb-8e8f-e597a0cebaf1.png)
 
+9. Calcule la resistencia Rab y Rcd en el circuito de la figura 7-52.
+
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS Capítulo 8:
 
 VIDEO 
