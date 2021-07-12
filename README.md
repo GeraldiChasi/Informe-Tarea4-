@@ -72,7 +72,29 @@ b. RT=R1+(R2||R3)+[R4||(R5+R6)]
 
 9. Calcule la resistencia Rab y Rcd en el circuito de la figura 7-52.
 
+![image](https://user-images.githubusercontent.com/84587091/125369350-a96ffc00-e341-11eb-9cba-554b236fe6a1.png)
+
+![image](https://user-images.githubusercontent.com/84587091/125369387-bd1b6280-e341-11eb-8da0-e2e1696e6a98.png)
+
+11. Vea el circuito de la figura 7-54.
+
+Encuentre las siguientes cantidades:
+
+a. RT
+
+b. IT, I1, I2, I3, I4
+
+c. Vab, Vbc.
+
+![image](https://user-images.githubusercontent.com/84587091/125369417-ce646f00-e341-11eb-9281-2d0948197ab8.png)
+
+![image](https://user-images.githubusercontent.com/84587091/125369544-0ff51a00-e342-11eb-8a68-f054caba334c.png)
+
+![image](https://user-images.githubusercontent.com/84587091/125369730-7c701900-e342-11eb-9e29-fb5899ade607.png)
+
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS Capítulo 8:
+
+
 
 VIDEO 
 
