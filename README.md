@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/84587120/125338274-9c3d1800-e315-11eb-8bff-fcddd735119a.png)
+
 INFORME DE TAREA
 
 OBJETIVOS:
