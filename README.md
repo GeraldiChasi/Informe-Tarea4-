@@ -39,8 +39,9 @@ CONCLUSIONES
 
 RECOMENDACIONES
 
--Debemos examinar mas a fondo la teoria de este circuito, ya que cada parte de ella es fundamental en la operacion de un circuito. 
--
+-Examinar mas a fondo la teoria de este circuito, ya que cada parte de ella es fundamental en la operacion de un circuito. 
+
+-Tener claro cada uno de los conceptos estudiados anteriormente, debido a que estos conceptos son empleados a lo largo de nuestro estudio. 
 
 BIBLIOGRAFÍA:
 
