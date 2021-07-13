@@ -20,7 +20,7 @@ CAPITULO 7
 
 ![image](https://user-images.githubusercontent.com/84427371/125336208-1cae4980-e313-11eb-9bc5-db68285d023d.png)
 
-CAPITULO 9
+CAPITULO 8
 
 ![image](https://user-images.githubusercontent.com/84427371/125336356-4cf5e800-e313-11eb-9ea8-40ff2168e9b8.png)
 
@@ -106,6 +106,76 @@ b. Encuentre el voltaje Vab.
 
 ![image](https://user-images.githubusercontent.com/84427371/125384623-d4b51400-e35e-11eb-9739-28677c08b7b5.png)
 
+7-3 Aplicaciones de los circuitos en serie-paralelo
+
+25. Calcule IC y VCE para el circuito de la figura 7-67.
+
+![image](https://user-images.githubusercontent.com/84427371/125480352-66f777e5-c202-4a24-8455-9dd483f0c34b.png)
+
+![image](https://user-images.githubusercontent.com/84427371/125480400-7d1827c4-b3d2-4dac-bda4-31fb5fc623b6.png)
+
+7-4 Potenciómetros
+
+27. Vea el circuito de la figura 7-69:
+
+![image](https://user-images.githubusercontent.com/84427371/125480805-f52f3e8f-8571-40d7-9f52-5d8f780f9d38.png)
+
+a. Determine el intervalo de voltajes que aparecerán en RL a medida que el potenciómetro varíe entre sus valores mínimo y máximo.
+
+![image](https://user-images.githubusercontent.com/84427371/125480874-0ab8340d-aefa-4540-85c0-ea1ae103f028.png)
+
+b. Si R2 se ajusta para tener 2.5 kΩ ¿Cuál será el voltaje VL? Si se remueve el resistor de carga ¿Qué voltaje aparecerá entre las terminales a y b?
+
+![image](https://user-images.githubusercontent.com/84427371/125480936-5b195cbd-5563-4f88-8160-b0a79bc56bca.png)
+
+![image](https://user-images.githubusercontent.com/84427371/125481007-d3ff0fb4-6b5e-4886-b4a9-43609e70495e.png)
+
+![image](https://user-images.githubusercontent.com/84427371/125481048-cfe74d1e-fd15-4372-a199-d5b120d6c1e1.png)
+
+29. Si el potenciómetro de la figura 7-70 se ajusta para que R2 =200 Ω, determine los voltajes Vab y Vbc.  
+
+![image](https://user-images.githubusercontent.com/84427371/125481149-87a5bc41-141d-42b3-931d-c4cf948d6901.png)
+
+![image](https://user-images.githubusercontent.com/84427371/125481244-e2f7c300-63a1-4210-90bd-2f1b9d77a24b.png)
+
+31. Vea el circuito d la figura 7-71:
+a. Determine el intervalo del voltaje de salida (del mínimo al máximo) que se espera cuando el potenciómetro se ajusta del mínimo al máximo.
+b. Calcule R2 cuando VSAL =20 V.
+
+![image](https://user-images.githubusercontent.com/84427371/125481364-cd2974da-3f80-4ef8-b392-7bb7c3378a9f.png)
+
+![image](https://user-images.githubusercontent.com/84427371/125481574-5bab63a9-9979-4f28-8f9e-b0f160289a64.png)
+
+![image](https://user-images.githubusercontent.com/84427371/125481621-411ee101-b28c-4aa8-a574-8fb75de10796.png)
+
+33. En el circuito de la figura 7-72 calcule el voltaje de salida VSAL cuando RL = 0 Ω, 250 Ω y 500 Ω.
+
+![image](https://user-images.githubusercontent.com/84427371/125481908-d7e0795e-ab05-47a4-86d5-06ed203c7f13.png)
+
+![image](https://user-images.githubusercontent.com/84427371/125481986-87c875bf-18e4-4f76-801e-9e95a82d319a.png)
+
+7-5 Efectos de carga de los instrumentos
+
+35. Un voltímetro con una sensibilidad de S = 20 k Ω/V se usa en la escala de 10 V (con una resistencia interna total de 200 kΩ) para medir el voltaje en el resistor de 750 kΩ de la figura 7-74. El medidor indica un voltaje de 5.00 V.
+a. Determine el valor de la fuente de voltaje E. 
+
+![image](https://user-images.githubusercontent.com/84427371/125482405-aad2d38f-ba47-4ac5-8d02-3df968230518.png)
+
+b. ¿Qué voltaje se presentará en el resistor de 750 kΩ cuando el voltímetro se quite del circuito?
+
+![image](https://user-images.githubusercontent.com/84427371/125482490-3a3f0c14-e203-402f-af37-6d1d97e7ba72.png)
+
+c. Calcule el efecto de carga del medidor cuando se utilice como se muestra.
+
+![image](https://user-images.githubusercontent.com/84427371/125482329-a3f969e6-c264-48e9-8627-717b36dc11a9.png)
+
+37. un amperímetro se usa para medir la corriente en el circuito que se muestra en la figura 7-76.
+
+a. Explique cómo conectar de manera correcta el amperímetro para medir la corriente I1. 
+b. Determine los valores indicados cuando el amperímetro se usa para medir cada una de las corrientes que se indican en el circuito. 
+c. Calcule el efecto de carga en el medidor cuando se mide cada una de las corrientes.
+
+![image](https://user-images.githubusercontent.com/84427371/125482719-49c0e4eb-9cdb-4710-99d6-c27ca120471e.png)
 
 
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS Capítulo 8:
