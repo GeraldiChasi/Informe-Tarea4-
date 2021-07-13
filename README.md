@@ -289,20 +289,31 @@ c. Determine el voltaje Vab.
 
 ![image](https://user-images.githubusercontent.com/84587120/125378073-bd245e00-e353-11eb-8508-b0d266c7560d.png)
 
+![image](https://user-images.githubusercontent.com/84427371/125492016-74cfe2c0-43a9-4edf-bfee-62f672f050fa.png)
+
+
 8-5 Análisis de mallas (lazos)
 
 25. Escriba las ecuaciones de malla para el circuito que se muestra en la figura 8-79 y encuentre las corrientes de lazo.
 
 ![image](https://user-images.githubusercontent.com/84587120/125378170-e5ac5800-e353-11eb-9d88-1d2b2db7aa55.png)
 
+![image](https://user-images.githubusercontent.com/84427371/125490225-ba0442c1-b4d8-472c-9bd2-82b070f0a933.png)
+
+
 
 27. Utilice el análisis de malla para encontrar la corriente I2 en el circuito de la figura 8-81.
 
 ![image](https://user-images.githubusercontent.com/84587120/125378236-ff4d9f80-e353-11eb-867d-2ba447b66baf.png)
 
+![image](https://user-images.githubusercontent.com/84427371/125491022-0449f3ed-9dda-4b1f-bf5e-af72692c005f.png)
+
 29. Utilice el análisis de malla para encontrar las corrientes de lazo en el circuito de la figura 8-84. Use sus resultados para determinar I y Vab.
 
 ![image](https://user-images.githubusercontent.com/84587120/125378303-1db39b00-e354-11eb-8cb5-5b84870910a0.png)
+
+![image](https://user-images.githubusercontent.com/84427371/125492910-c8f56caf-5498-432d-9969-159aefda2261.png)
+
 
 31. Escriba las ecuaciones de malla para la red de la figura 8-86. Encuentre las corrientes de lazo con determinantes.
 
@@ -316,6 +327,10 @@ c. Determine el voltaje Vab.
 
 ![image](https://user-images.githubusercontent.com/84587120/125378422-50f62a00-e354-11eb-92da-9aba0de21bf3.png)
 
+![image](https://user-images.githubusercontent.com/84427371/125493032-c9162490-abf9-4a05-ba70-ccc1da0b0c96.png)
+
+![image](https://user-images.githubusercontent.com/84427371/125493346-501bf1e9-f8ca-4a81-8815-16969be676f2.png)
+
 35. Repita el problema 33 para el circuito de la figura 8-90
 
 ![image](https://user-images.githubusercontent.com/84587120/125378524-8438b900-e354-11eb-9821-15983dee2e74.png)
@@ -323,6 +338,11 @@ c. Determine el voltaje Vab.
 37. Escriba las ecuaciones de nodos para el circuito de la figura 8-86 y encuentre V6Ω.
 
 ![image](https://user-images.githubusercontent.com/84587120/125378553-9581c580-e354-11eb-8047-cdf5fe71cc36.png)
+
+![image](https://user-images.githubusercontent.com/84427371/125493582-1444f517-3ac1-4d66-89b9-774a27e81ce0.png)
+
+![image](https://user-images.githubusercontent.com/84427371/125494072-5b19c463-e1bc-48af-b67f-56b7255d7414.png)
+
 
 8-7 Conversiones delta-Y (Pi-T)
 
