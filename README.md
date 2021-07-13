@@ -384,6 +384,9 @@ d. Determine el voltaje en R 5.
 
 VIDEO 
 
+https://www.youtube.com/watch?v=R-rWVOPI864
+
+
 CONCLUSIONES
 
 -Aprendimos que las ramas y resistores son fundamentos claves para una serie -paralelo ya que el circuito eléctrico en serie se denota por mantener su intensidad de corriente constante, también por su variación de voltaje y finalmente las resistencias totales siempre serán las mismas que las resistencias que compone el circuito. en cambio el circuito eléctrico en paralelo se denota por mantener el voltaje constante, también por la variación de su intensidad de corriente y finalmente porque sus resistencias totales siempre van hacer menor que las resistencias que componen el circuito. 
