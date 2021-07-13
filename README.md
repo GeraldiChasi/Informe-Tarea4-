@@ -179,9 +179,15 @@ c. Determine el voltaje Vab.
 
 ![image](https://user-images.githubusercontent.com/84587120/125377974-82bac100-e353-11eb-9be3-9dde9191446a.png)
 
+![image](https://user-images.githubusercontent.com/84587120/125383505-1f359100-e35d-11eb-8e68-575a569ed170.png)
+
+
 21. Escriba las ecuaciones de corriente de rama para el circuito de la figura 8-81 y encuentre la corriente I2.
 
 ![image](https://user-images.githubusercontent.com/84587120/125378012-982feb00-e353-11eb-84ee-86e3e3116e36.png)
+
+![image](https://user-images.githubusercontent.com/84587120/125383537-29f02600-e35d-11eb-9463-c196b90d89e9.png)
+
 
 23. Vea el circuito de la figura 8-83:
 
@@ -210,8 +216,9 @@ c. Determine el voltaje Vab.
 
 31. Escriba las ecuaciones de malla para la red de la figura 8-86. Encuentre las corrientes de lazo con determinantes.
 
-![image](https://user-images.githubusercontent.com/84587120/125379789-c4993680-e356-11eb-8c13-b1e75ef6be4f.png)
+![image](https://user-images.githubusercontent.com/84587120/125383606-4724f480-e35d-11eb-9222-bfbc758fbb4e.png)
 
+![image](https://user-images.githubusercontent.com/84587120/125383618-5015c600-e35d-11eb-8ec0-394df290c4a6.png)
 
 8-6 Análisis de nodos
 
