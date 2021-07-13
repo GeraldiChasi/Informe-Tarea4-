@@ -94,7 +94,77 @@ c. Vab, Vbc.
 
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS Capítulo 8:
 
+1. Encuentre el voltaje VS para el circuito de la figura 8-64.
 
+![image](https://user-images.githubusercontent.com/84587091/125370063-3ebfc000-e343-11eb-812b-2483431b31af.png)
+
+Vs=IR=3*6=18v+20v=38V
+
+3. Vea el circuito de la figura 8-66:
+
+a. Encuentre la corriente I3.
+
+b. Determine los voltajes VS y V1.
+
+![image](https://user-images.githubusercontent.com/84587091/125370104-5434ea00-e343-11eb-966f-de13aabecdcd.png)
+
+![image](https://user-images.githubusercontent.com/84587091/125370158-6f075e80-e343-11eb-98cd-70f7195eea06.png)
+
+5. Para el circuito de la figura 8-68 encuentre las corrientes I1 e I2.
+
+![image](https://user-images.githubusercontent.com/84587091/125370171-79c1f380-e343-11eb-9f99-60572b8b8af5.png)
+
+I1=15/50=0.3*100=300uA+100uA=400uA
+
+It=-I1+I2  I2=100+400=500uA
+
+7. Verifique que la potencia suministrada por las fuentes es igual a la suma de las potencias disipadas por los resistores en el circuito de la figura 8-68.
+
+Pt=I2*V=500*15=7.5mW
+
+P=100*15=1.5mW
+
+P1=(I2-I1)V=100*15=1.5mW
+
+P2=(I1-I)v=300*15=4.5mW
+
+9. Convierta cada fuente de voltaje de la figura 8-70 en su fuente de corriente equivalente
+
+![image](https://user-images.githubusercontent.com/84587091/125370344-d9200380-e343-11eb-831e-ef82017223e0.png)
+
+11. Vea el circuito de la figura 8-72:
+
+a. Encuentre la corriente a través del resistor de carga con la regla del divisor de corriente. 
+
+b. Convierta la fuente de corriente en su fuente de voltaje equivalente y determine, otra vez, la corriente a través de la carga.
+
+![image](https://user-images.githubusercontent.com/84587091/125370370-ed640080-e343-11eb-9738-d03a3965505e.png)
+
+![image](https://user-images.githubusercontent.com/84587091/125370383-f5bc3b80-e343-11eb-9c61-ab900d78c154.png)
+
+13. Vea el circuito de la figura 8-74:
+
+a. Convierta la fuente de corriente y el resistor de 330ohm en su fuente de voltaje equivalente.
+
+b. Encuentre la corriente I a través de RL. 
+
+c. Determine el voltaje Vab.
+
+![image](https://user-images.githubusercontent.com/84587091/125370413-040a5780-e344-11eb-90a7-38bcc2a636d6.png)
+
+![image](https://user-images.githubusercontent.com/84587091/125370432-0cfb2900-e344-11eb-9c0b-93e6df5a0db9.png)
+
+15. Encuentre el voltaje V2 y la corriente I1 para el circuito de la figura 8-76.
+
+![image](https://user-images.githubusercontent.com/84587091/125370461-184e5480-e344-11eb-8c1f-d97a0457372b.png)
+
+![image](https://user-images.githubusercontent.com/84587091/125370477-20a68f80-e344-11eb-8d3f-03ccfa5c831b.png)
+
+17. Para el circuito de la figura 8-78 convierta la fuente de corriente y el resistor de 2.4 kohm en una fuente de voltaje y calcule el voltaje Vab y la corriente I3.
+
+![image](https://user-images.githubusercontent.com/84587091/125370494-2d2ae800-e344-11eb-84be-7d07bf414672.png)
+
+![image](https://user-images.githubusercontent.com/84587091/125370506-34ea8c80-e344-11eb-9ccf-7494a16ff616.png)
 
 VIDEO 
 
