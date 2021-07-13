@@ -210,7 +210,8 @@ c. Determine el voltaje Vab.
 
 31. Escriba las ecuaciones de malla para la red de la figura 8-86. Encuentre las corrientes de lazo con determinantes.
 
-![image](https://user-images.githubusercontent.com/84587120/125378368-391ea600-e354-11eb-8f78-b24c3670e76e.png)
+![image](https://user-images.githubusercontent.com/84587120/125379789-c4993680-e356-11eb-8c13-b1e75ef6be4f.png)
+
 
 8-6 Análisis de nodos
 
