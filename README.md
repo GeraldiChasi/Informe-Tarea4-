@@ -92,10 +92,19 @@ c. Vab, Vbc.
 
 ![image](https://user-images.githubusercontent.com/84587091/125369730-7c701900-e342-11eb-9e29-fb5899ade607.png)
 
+13. Vea el circuito de la figura 7-56.
+a. Encuentre las corrientes I1, I2, I3, I4, I5 e I6.
+b. Encuentre los voltajes Vab y Vcd.
+c. Verifique que la potencia suministrada al circuito es igual a la suma de las
+potencias disipadas por los resistores.
 
+![image](https://user-images.githubusercontent.com/84427371/125384314-5d7f8000-e35e-11eb-8dad-e3d659e0c680.png)
 
+15. Vea los circuitos de la figura 7-58:
+a. Encuentre las corrientes indicadas.
+b. Encuentre el voltaje Vab.
 
-
+![image](https://user-images.githubusercontent.com/84427371/125384623-d4b51400-e35e-11eb-9739-28677c08b7b5.png)
 
 
 
