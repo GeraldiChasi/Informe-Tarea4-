@@ -158,17 +158,28 @@ b. Convierta la fuente de corriente en su fuente de voltaje equivalente y determ
 
 ![image](https://user-images.githubusercontent.com/84587091/125370383-f5bc3b80-e343-11eb-9c61-ab900d78c154.png)
 
-13. Vea el circuito de la figura 8-74:
-
-a. Convierta la fuente de corriente y el resistor de 330ohm en su fuente de voltaje equivalente.
-
-b. Encuentre la corriente I a través de RL. 
-
-c. Determine el voltaje Vab.
+13. Vea el circuito de la figura 7-56.
 
 ![image](https://user-images.githubusercontent.com/84587091/125370413-040a5780-e344-11eb-90a7-38bcc2a636d6.png)
 
 ![image](https://user-images.githubusercontent.com/84587091/125370432-0cfb2900-e344-11eb-9c0b-93e6df5a0db9.png)
+
+a. Encuentre las corrientes I1, I2, I3, I4, I5 e I6.
+
+![image](https://user-images.githubusercontent.com/84427371/125386472-f663ca80-e361-11eb-8f1b-32a89f5c7d49.png)
+
+![image](https://user-images.githubusercontent.com/84427371/125386509-0a0f3100-e362-11eb-939d-4743b6db3171.png)
+
+
+b. Encuentre los voltajes Vab y Vcd.
+
+![image](https://user-images.githubusercontent.com/84427371/125386528-11363f00-e362-11eb-908a-e6976fbc22c7.png)
+
+c. Verifique que la potencia suministrada al circuito es igual a la suma de las
+potencias disipadas por los resistores.
+
+![image](https://user-images.githubusercontent.com/84427371/125386601-2d39e080-e362-11eb-83f7-868279bc7d6d.png)
+
 
 15. Encuentre el voltaje V2 y la corriente I1 para el circuito de la figura 8-76.
 
